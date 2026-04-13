@@ -1,4 +1,4 @@
-# Mail Calibration Tool (Excel VBA)
+# Mail Check & Prompt Tool (Excel VBA)
 
 AIを活用したビジネスメールの校正・タイポチェックを効率化するためのExcel VBAツールです。
 
